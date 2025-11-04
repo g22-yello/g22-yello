@@ -35,9 +35,6 @@ Check out my repositories to see how I apply these skills to **real-world projec
 
 ## 📬 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/glanet-jeshma-castelino022) | 🌐 [Portfolio](https://your-portfolio-link.com) |📧 [Email](mailto:)
+💼 [LinkedIn](https://www.linkedin.com/in/glanet-jeshma-castelino022) | 🌐 [Portfolio](https://your-portfolio-link.com) |📧 [Email](mailto:g22castel@gmail.com)
 
----
-
-⭐ *Thanks for visiting my profile! I'm actively seeking opportunities in Data Analytics and open to collaboration or feedback on my projects.*
 
