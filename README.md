@@ -20,38 +20,11 @@ I'm passionate about uncovering insights from data and translating them into act
 
 ## 🛠️ Skills & Tools
 
-### 🗄️ SQL
-- Joins (Inner, Left, Right, Full)  
-- Subqueries  
-- Window Functions  
-- Common Table Expressions (CTEs)  
-- Query Optimization  
-
-### 📊 Excel
-- Pivot Tables & Pivot Charts  
-- VLOOKUP, XLOOKUP  
-- INDEX & MATCH  
-- Conditional Formatting  
-- Data Validation  
-- Power Query & Power Pivot  
-
-### 📈 Power BI
-- Data Connection & Transformation (Power Query)  
-- Data Modeling  
-- DAX Formulas  
-- Data Visualization & Dashboarding  
-- Performance Optimization  
-- Power BI Service (Data Gateway & Dataflows)  
-
-### 🐍 Python
-- Pandas & NumPy  
-- Matplotlib & Seaborn  
-- File Handling (CSV, Excel, JSON)  
-- Error Handling & Exception Management  
-
-### 📘 Others
-- Statistics (Descriptive & Inferential)  
-- Machine Learning (Supervised Learning Models)  
+**SQL:** Joins, Subqueries, CTEs, Window Functions  
+**Excel:** Pivot Tables, XLOOKUP, Power Query  
+**Power BI:** DAX, Data Modeling, Dashboarding  
+**Python:** Pandas, NumPy, Matplotlib, Seaborn  
+**Core Concepts:** Statistics, Data Cleaning, ML Models 
 
 ---
 
